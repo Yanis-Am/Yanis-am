@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm YANIS AMEDJKANE</h1>
-<h3 align="center">Maths and metaphysics</h3>
+<h3 align="center">Maths and metaphysics, aspiring quant analyst</h3>
 
-- 🌱 I’m currently learning **PyTorch, C++, JS**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanis-am&label=Profile%20views&color=0e75b6&style=flat" alt="yanis-am" /> </p>
+
+- 🪙 Vice-treasurer at [Junior Taker Conseil Paris](https://taker.epitech.eu/)
+
+- 📜 I’m currently learning **PyTorch, C++, JS**
 
 - 📫 How to reach me **yanis.amedjkane@juniortaker.com**
 
