@@ -10,9 +10,10 @@
 
 ***About me ....***
 
-✔  🔭 &nbsp; Combining my fundamental love for metaphysics and philosophy with my love for CS.&nbsp; 🔭<br>
-✔  🪙 &nbsp; Vice-treasurer at [Junior Conseil Taker Paris](https://taker.epitech.eu/). &nbsp; 🪙<br>
-✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;I play music and I'm currently writing an essay. &nbsp;🖋<br>
+✔  🔭 &nbsp; Combining my fundamental love for metaphysics and philosophy with my love for CS&nbsp; 🔭<br>
+✔  🪙 &nbsp; Vice-treasurer at [Junior Conseil Taker Paris](https://taker.epitech.eu/) &nbsp; 🪙<br>
+✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;I play music and I'm currently writing an essay &nbsp;🖋<br>
+✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;Art enthusiast &nbsp;🖋<br>
 
 
 <!-- contact me -->
@@ -90,9 +91,9 @@
 
 
  <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://en.wikipedia.org/wiki/M._C._Escher">
+  <img  src="https://thumbs.gfycat.com/OddRecentHeterodontosaurus-size_restricted.gif"
+       alt="escher" /></a>
 </div>
 
 
