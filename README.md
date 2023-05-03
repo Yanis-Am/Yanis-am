@@ -84,7 +84,7 @@
  </details>
  <br>
 
- <h3 align="center">Visitor Count</h3>
+ <h3 align="center">Inspired art from M.C. Escher</h3>
 <br>
 
 
