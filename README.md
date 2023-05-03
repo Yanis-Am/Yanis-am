@@ -10,10 +10,10 @@
 
 ***About me ....***
 
-✔  🔭 &nbsp; Combining my fundamental love for metaphysics and philosophy with my love for CS&nbsp; 🔭<br>
+✔  🔭 &nbsp; Combining my fundamental love for metaphysics, maths and philosophy with my love for CS&nbsp; 🔭<br>
 ✔  🪙 &nbsp; Vice-treasurer at [Junior Conseil Taker Paris](https://taker.epitech.eu/) &nbsp; 🪙<br>
 ✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;I play music and I'm currently writing an essay &nbsp;🖋<br>
-✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;Art enthusiast &nbsp;🖋<br>
+✔  🎨 &nbsp;&nbsp;Art enthusiast &nbsp;🎨<br>
 
 
 <!-- contact me -->
@@ -85,13 +85,11 @@
  <br>
 
  <h3 align="center">Visitor Count</h3>
- <p align="center">
-        <img src="https://profile-counter.glitch.me/{Yanis-Am}/count.svg"/>
-</p>
+<br>
 
 
  <div align="center">
-  <a href="https://en.wikipedia.org/wiki/M._C._Escher">
+  <a href="https://mcescher.com/">
   <img  src="https://thumbs.gfycat.com/OddRecentHeterodontosaurus-size_restricted.gif"
        alt="escher" /></a>
 </div>
