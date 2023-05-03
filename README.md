@@ -6,9 +6,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
-<img align="center" alt="GIF" height="200px" width="200" src="https://i.gifer.com/XDZc.gif" />
+<img align="right" height="200px" width="200" src="https://i.gifer.com/XDZc.gif" />
 
 ***About me ....***
 
@@ -105,4 +104,4 @@
 </p>
 
 
-Last Edited on: 03/05/2023
+Last Edited on: 03/01/2023
