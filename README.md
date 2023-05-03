@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" height="200px" width="200" src="https://i.gifer.com/XDZc.gif" />
+<img align="center" alt="GIF" height="200px" width="200" src="https://i.gifer.com/XDZc.gif" />
 
 ***About me ....***
 
