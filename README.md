@@ -85,11 +85,10 @@
  <br>
  
  <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{Yanis-Am}/count.svg">
-  
- ![VisitorCount](https://profile-counter.glitch.me/{Yanis-Am}/count.svg)
-  
-</a>
+ <p align="center">
+        <img src="https://profile-counter.glitch.me/{Yanis-Am}/count.svg"/>
+</p>
+
 
  <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
