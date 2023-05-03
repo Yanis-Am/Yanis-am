@@ -4,12 +4,13 @@
 <br/>
 <p align="center">- CS engineering student. Currently learning Machine Learning and algorithmic trading, while understanding and implementing the fundamentals of computer engineering - 
 <br/>
+<p align="center"><img src="https://64.media.tumblr.com/5e6d2828686423d68831e3fc4c8f322c/tumblr_o2rna9xKc21rv33k2o6_500.gif" width="200">
+<br/>
 
-<img align="right" height="200px" width="200" src="https://64.media.tumblr.com/5e6d2828686423d68831e3fc4c8f322c/tumblr_o2rna9xKc21rv33k2o6_500.gif" />
 
 ***About me ....***
 
-✔  🔭 &nbsp; Combining my fundamental love for metaphysics and philosophy with my love for CS.<br>
+✔  🔭 &nbsp; Combining my fundamental love for metaphysics and philosophy with my love for CS.&nbsp; 🔭<br>
 ✔  🪙 &nbsp; Vice-treasurer at [Junior Conseil Taker Paris](https://taker.epitech.eu/). &nbsp; 🪙<br>
 ✔ &nbsp; 🖋 &nbsp; &nbsp;&nbsp;I play music and I'm currently writing an essay. &nbsp;🖋<br>
 
@@ -81,7 +82,7 @@
  </div>
  </details>
  <br>
- 
+
  <h3 align="center">Visitor Count</h3>
  <p align="center">
         <img src="https://profile-counter.glitch.me/{Yanis-Am}/count.svg"/>
