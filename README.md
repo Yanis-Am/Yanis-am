@@ -4,7 +4,7 @@
 <br/>
 <p align="center">- CS engineering student. Currently learning Machine Learning and algorithmic trading, while understanding and implementing the fundamentals of computer engineering - 
 <br/>
-<p align="center"><img src="https://i.gifer.com/XDZc.gif" width="200">
+<p align="center"><img src="https://i.gifer.com/XDZc.gif" width="60">
 <br/>
 
 ***About me ....***
