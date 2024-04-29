@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Yanis-Am)
  
-# <p align="center">Yanis Amedjkane <img src="" width="80">
+# <p align="center">Yanis Amedjkane
 <br/>
 <p align="center">- CS engineering student. R&D developer at Sony CSL Paris. Currently learning signal treatment and graphics programming - 
 <br/>
