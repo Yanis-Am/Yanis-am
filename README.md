@@ -68,16 +68,7 @@
 
 
 <!--  # Productivity Stats📈: -->
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanis-Am&theme=monokai"  display=block width=100% height=auto  alt="" ></td>
-   </tr>
-</table>
- </p>
- </samp>
- </div>
- </details>
- <br>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanis-Am&theme=synthwave) 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
