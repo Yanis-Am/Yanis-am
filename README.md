@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Yanis-Am)
  
-# <p align="center">Yanis Amedjkane <img src="https://64.media.tumblr.com/f38f56be3252afec3faab342094e204c/tumblr_mx7gs8rld31qkjjfoo1_500.gif" width="80">
+# <p align="center">Yanis Amedjkane <img src="" width="80">
 <br/>
-<p align="center">- CS engineering student. Currently learning Machine Learning and algorithmic trading, while understanding and implementing the fundamentals of computer engineering - 
+<p align="center">- CS engineering student. R&D developer at Sony CSL Paris. Currently learning signal treatment and graphics programming - 
 <br/>
 <p align="center"><img src="https://64.media.tumblr.com/5e6d2828686423d68831e3fc4c8f322c/tumblr_o2rna9xKc21rv33k2o6_500.gif" width="200">
 <br/>
@@ -11,8 +11,8 @@
 ***About me ....***
 
 ✔  🔭 &nbsp; Combining my fundamental love for metaphysics, maths and philosophy with my love for CS&nbsp; 🔭<br>
-✔  🪙 &nbsp; Vice-treasurer at [Junior Conseil Taker Paris](https://taker.epitech.eu/) &nbsp; 🪙<br>
-✔ &nbsp; 🖋 &nbsp;I play music and I'm currently writing an essay &nbsp;🖋<br>
+✔  🎚️ &nbsp; R&D intern at Sony CSL Paris &nbsp; 🎚️<br>
+✔ &nbsp; 🖋 &nbsp;&nbsp;&nbsp;&nbsp;I play music and I'm currently writing an essay &nbsp;🖋<br>
 ✔  🎨 &nbsp;&nbsp;Art enthusiast &nbsp;🎨<br>
 
 
@@ -24,7 +24,7 @@
     <h2 align="center">Links:</h2>
     <p align="center">
       <br/>
-      <a href="mailto:yanis.amedjkane@juniortaker.com" target="blank"><img align="center"
+      <a href="mailto:yanis.amedjkane.dev@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
@@ -40,17 +40,15 @@
  <div>
  <samp>
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" alt="c-original" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="js" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-plain-wordmark.svg" alt="torch" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" alt="selenium" width="80" height="80"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/haskell/haskell-original.svg" alt="selenium" width="80" height="80"/> 
 </p> 
  </samp> 
  </div>
@@ -65,17 +63,14 @@
  
 <p align="center">
  
-[![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanis-Am&count_private=true&show_icons=true&theme=radical)](https://github.com/Yanis-Am)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanis-Am&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yanis-Am&theme=dark)
- 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yanis-Am&theme=synthwave)
+
+
 <!--  # Productivity Stats📈: -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanis-Am&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yanis-Am&theme=monokai"  display=block width=100% height=auto  alt="" ></td>
    </tr>
 </table>
  </p>
@@ -84,21 +79,9 @@
  </details>
  <br>
 
- <h3 align="center">Inspired art from M.C. Escher</h3>
-<br>
-
-
- <div align="center">
-  <a href="https://mcescher.com/">
-  <img  src="https://thumbs.gfycat.com/OddRecentHeterodontosaurus-size_restricted.gif"
-       alt="escher" /></a>
-</div>
-
-
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 
-Last Edited on: 03/01/2023
+Last Edited on: 29/04/2024
