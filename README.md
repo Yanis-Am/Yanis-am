@@ -4,7 +4,7 @@
 <br/>
 <p align="center">- CS engineering student. R&D developer at Sony CSL Paris. Currently learning signal treatment and graphics programming - 
 <br/>
-<p align="center"><img src="https://64.media.tumblr.com/5e6d2828686423d68831e3fc4c8f322c/tumblr_o2rna9xKc21rv33k2o6_500.gif" width="200">
+<p align="center"><img src="https://www.memo.tv/wpmemo/wp-content/uploads/2019/09/memoakten_learningtosee_waves_32c.gif" width="450">
 <br/>
 
 
@@ -12,7 +12,7 @@
 
 ✔  🔭 &nbsp; Combining my fundamental love for metaphysics, maths and philosophy with my love for CS&nbsp; 🔭<br>
 ✔  🎚️ &nbsp; R&D intern at Sony CSL Paris &nbsp; 🎚️<br>
-✔ &nbsp; 🖋 &nbsp;&nbsp;&nbsp;&nbsp;I play music and I'm currently writing an essay &nbsp;🖋<br>
+✔  🖋 &nbsp; I play music and I'm currently writing an essay &nbsp;🖋<br>
 ✔  🎨 &nbsp;&nbsp;Art enthusiast &nbsp;🎨<br>
 
 
